@@ -16,4 +16,4 @@ jobs:
       run: |
        cd /usr/share/nginx/html
        sudo rm -rf index.html
-       sudo mv /home/ec2-user/actions-runner/_work/ec2_second/ec2_second/index.html /usr/share/nginx/html/
+       sudo mv /home/ec2-user/actions-runner/_work/ec2_second/ec2_second/ /usr/share/nginx/html/
